@@ -1,0 +1,19 @@
+a=7
+print(type(a))
+b="hello"
+print(type(b))
+c=1.12
+print(type(c))
+d=True
+print(type(d))
+e=(6.4,7.0,"khushee")
+print(type(e))
+f=[9,"khushee",6.4]
+print(type(f))
+g= {
+    "khushee":64,
+    "k":27
+}
+print(type(g))
+h=2+7j
+print(type(h))
